@@ -10,7 +10,7 @@ import {
 import { useEffect, type ReactNode } from "react";
 
 import appCss from "../styles.css?url";
-import { reportLovableError } from "../lib/lovable-error-reporting";
+import { reportgemma4Error } from "../lib/lovable-error-reporting";
 import { TopNav } from "../components/TopNav";
 
 function NotFoundComponent() {
